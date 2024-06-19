@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CUDA_VERSION=11.7
+CUDA_VERSION=11.8
 
 # Setup repository environment variable
 RL_PCB=${PWD}
